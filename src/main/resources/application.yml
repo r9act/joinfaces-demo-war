@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: "demo-war"
+
+joinfaces:
+  primefaces:
+    theme: saga
+  faces:
+    project-stage: Production
+    facelets-libraries: /tags/tags.taglib.xml
